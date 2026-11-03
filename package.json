@@ -1,8 +1,9 @@
 {
   "name": "mt1-labexam",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Employee Task Management",
+  "main": "expressApp.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +14,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
   "bugs": {
     "url": "https://github.com/Arnavv28/MT1-LABEXAM/issues"
   },
